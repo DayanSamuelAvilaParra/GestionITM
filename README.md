@@ -15,3 +15,10 @@ Repositorio: GestionITM.Infrastructure/Repositories/ProfesorRepository.cs.
 
 Contexto: ApplicationDbContext.cs (Configuración de la tabla Profesores).
 
+3. API y Middleware (API)
+
+Controlador: GestionITM.API/Controllers/ProfesorController.cs.
+
+Middleware Global: GestionITM.API/Middleware/ExceptionMiddleware.cs (Implementado para capturar excepciones globales y devolver el formato JSON solicitado).
+
+Configuración: appsettings.json (Vínculo con la base de datos SQL Server local).
