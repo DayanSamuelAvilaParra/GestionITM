@@ -1,3 +1,4 @@
+Tuve problemas para subir eso en el GitHub y no se pudo subir exactamente como usted lo pidió en una rama 
 Para facilitar la verificación de los componentes creados y modificados, detallo la ubicación de los archivos clave:
 
 1. Lógica de Negocio y Entidades (Domain)
